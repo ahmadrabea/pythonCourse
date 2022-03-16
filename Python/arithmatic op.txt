@@ -1,0 +1,43 @@
+Write a Python program to convert degree to radian
+
+Test Data:
+Degree : 15
+Expected Result in radians: 0.2619047619047619
+####################################################
+
+Write a Python program to convert radian to degree.
+Radian : 0.52
+Expected Result : 29.781818181818185
+
+####################################################
+
+
+Write a Python program to generate a random number.
+
+
+####################################################
+
+
+Write a python program to find the area of the circle (A = πr² )
+
+Raduis : 5
+Expected Result :78.5398163
+
+####################################################
+
+Write a python program to find the area of the square (all sides are the same)
+
+X = 3
+
+Expected Result : 9
+
+
+####################################################
+
+
+Write a python program to evaluate (  15 * 3.6 + √19 / 86²  ) #(without using math library)
+
+
+
+
+
