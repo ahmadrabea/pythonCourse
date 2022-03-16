@@ -37,7 +37,7 @@ Expected Result : 9
 
 Write a python program to evaluate (  15 * 3.6 + √19 / 86²  ) #(without using math library)
 
-
+Expected Result : 54.00058936
 
 
 
