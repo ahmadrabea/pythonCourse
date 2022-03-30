@@ -1,0 +1,37 @@
+# -----------------------
+# -- Boolean Operators --
+# -----------------------
+# and
+# or
+# not
+# -----------------------
+
+age = 36
+country = "Egypt"
+rank = 10
+
+print(age > 16 and country == "Egypt" and rank > 0)  # True
+print(age > 16 and country == "KSA" and rank > 0)  # False
+
+print(age > 40 or country == "KSA" or rank > 20)  # False
+print(age > 40 or country == "Egypt" or rank > 20)  # True
+
+print(age > 16)  # True
+print(not age > 16)  # Not True = False
+
+
+
+
+Challenges : 
+
+
+write a python program to check if the age greater than or equal 18 
+
+
+write a python program to check if the country is one of these [Egypt , KSA , USA , UAE , Jordan]
+
+
+write a python program to check if the age less than 60 and the salary equal to 1000
+
+
+write a pyhton program to check if job is Teacher or programmer and age between 30 and 50 
