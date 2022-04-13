@@ -25,17 +25,17 @@ write a program to find the absolute value of the variable x
 write a program so that it gives a student (pass) if his mark is equal or above 50
 and (fail) if his mark is less than 50
 
-***********************5****************************
+***********************6****************************
 
 Create a list containing four names and a variable containing a name 
 then write a code to check that if the value of the varible 
 belongs to the elements of the list 
 
-***********************5****************************
+***********************7****************************
 
 write a code that acts the way (password verification code) does
 
-***********************5****************************
+***********************8****************************
 
 Write a program to convert the mark from numbers to letter grades 
 above 90 means A
