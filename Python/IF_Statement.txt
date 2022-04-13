@@ -1,0 +1,46 @@
+***********************1****************************
+
+Write a program by using the "if Statement" 
+if the value of X is greater than 50 it prints pass
+
+***********************2****************************
+
+Write a program by using the "if statement"
+to verify the value of the variable within the string "abcde" by printing
+a statement (the variable is from this group)
+Hint : use (in) operator
+
+***********************3****************************
+
+write a program by using the "if statement" to determine if a number (stored in variable)
+is even or odd. this is done by printing a sentence that informs the user of the type of the number 
+Hint : use two if statement 
+
+***********************4****************************
+
+write a program to find the absolute value of the variable x 
+
+***********************5****************************
+
+write a program so that it gives a student (pass) if his mark is equal or above 50
+and (fail) if his mark is less than 50
+
+***********************5****************************
+
+Create a list containing four names and a variable containing a name 
+then write a code to check that if the value of the varible 
+belongs to the elements of the list 
+
+***********************5****************************
+
+write a code that acts the way (password verification code) does
+
+***********************5****************************
+
+Write a program to convert the mark from numbers to letter grades 
+above 90 means A
+80-90 means B 
+70-79 means C
+60-69 means D
+less than 60 means F
+
