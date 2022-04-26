@@ -1,0 +1,54 @@
+Write a program that prints a multiplication table for numbers (1-10)
+
+
+
+
+***********************************************************************************
+Write a program that returns the largest element in a list
+
+
+
+
+
+
+***********************************************************************************
+Write a program that checks whether an element occurs in a list.
+
+
+
+
+
+
+***********************************************************************************
+Write a program that computes the total of a list.
+
+
+
+
+
+**********************************************************************************
+Write a program that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]
+
+
+
+
+
+
+***********************************************************************************
+Write a program that takes a list of strings an prints them, one per line,
+ in a rectangular frame. For example the list ["Hello", "World", "in", "a", "frame"] gets printed as:
+
+*********
+* Hello *
+* World *
+* in    *
+* a     *
+* frame *
+*********
+
+
+
+
+
+***********************************************************************************
+Write a program that tests whether a string is a palindrome.
